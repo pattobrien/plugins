@@ -9,6 +9,16 @@
       "name": "origin-apps",
       "source": "./origin-apps",
       "description": "Skills for building on the Cursor Origin API. Fetch the live spec first, then follow the Origin rules for credentials, scopes, webhooks, paging, and errors. Includes a skill that plans the port of an existing GitHub App."
+    },
+    {
+      "name": "pstack",
+      "source": "./pstack",
+      "description": "rigorous agent workflows: poteto-mode, principles, unslop, verification skills"
+    },
+    {
+      "name": "cursor-team-kit",
+      "source": "./cursor-team-kit",
+      "description": "Cursor's internal engineering workflows: CI fixing, code review, shipping, deslop, verification, and work summaries."
     }
   ]
 }
