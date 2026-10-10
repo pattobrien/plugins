@@ -19,6 +19,14 @@
       "name": "cursor-team-kit",
       "source": "./cursor-team-kit",
       "description": "Cursor's internal engineering workflows: CI fixing, code review, shipping, deslop, verification, and work summaries."
+    },
+    {
+      "name": "deslop",
+      "source": "./cursor-team-kit/skills/deslop",
+      "description": "Remove AI-generated code slop and clean up code style",
+      "version": "1.2.0-cc.1",
+      "strict": false,
+      "skills": ["./"]
     }
   ]
 }
